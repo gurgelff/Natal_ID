@@ -1,0 +1,61 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>PrototipoPulseiradesign</Name>
+    <Description>&lt;No description available&gt;</Description>
+    <ProjectType>CSharp</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>PrototipoPulseiradesign</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="PrototipoPulseira.csproj" File="PrototipoPulseira.csproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="true" TargetFileName="AcessoBD.cs">AcessoBD.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="app.config">app.config</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="DadosPessoais.cs">DadosPessoais.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="DadosPessoais.Designer.cs">DadosPessoais.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="DadosPessoais.resx">DadosPessoais.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Dependente.cs">Dependente.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Dependente.Designer.cs">Dependente.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Dependente.resx">Dependente.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Empresarial.cs">Empresarial.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Empresarial.Designer.cs">Empresarial.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Empresarial.resx">Empresarial.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Financeiro.cs">Financeiro.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Financeiro.Designer.cs">Financeiro.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Financeiro.resx">Financeiro.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="fisicaconsulta.cs">fisicaconsulta.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="fisicaconsulta.Designer.cs">fisicaconsulta.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="fisicaconsulta.resx">fisicaconsulta.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form1.cs">Form1.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form1.Designer.cs">Form1.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form1.resx">Form1.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="juridicaconsultacs.cs">juridicaconsultacs.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="juridicaconsultacs.Designer.cs">juridicaconsultacs.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="juridicaconsultacs.resx">juridicaconsultacs.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="natalidDataSet3.xsd">natalidDataSet3.xsd</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="natalidDataSet3.cs">natalidDataSet3.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="natalidDataSet3.Designer.cs">natalidDataSet3.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="natalidDataSet3.xsc">natalidDataSet3.xsc</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="natalidDataSet3.xss">natalidDataSet3.xss</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="natalidDataSet4.xsd">natalidDataSet4.xsd</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="natalidDataSet4.Designer.cs">natalidDataSet4.Designer.cs</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="natalidDataSet4.xsc">natalidDataSet4.xsc</ProjectItem>
+      <ProjectItem ReplaceParameters="false" TargetFileName="natalidDataSet4.xss">natalidDataSet4.xss</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Program.cs">Program.cs</ProjectItem>
+      <Folder Name="Properties" TargetFolderName="Properties">
+        <ProjectItem ReplaceParameters="true" TargetFileName="AssemblyInfo.cs">AssemblyInfo.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.resx">Resources.resx</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.Designer.cs">Resources.Designer.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Settings.settings">Settings.settings</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Settings.Designer.cs">Settings.Designer.cs</ProjectItem>
+      </Folder>
+      <ProjectItem ReplaceParameters="false" TargetFileName="PrototipoPulseira_TemporaryKey.pfx">PrototipoPulseira_TemporaryKey.pfx</ProjectItem>
+    </Project>
+  </TemplateContent>
+</VSTemplate>
